@@ -21,7 +21,8 @@ This repository contains the code and analysis for various tasks I completed as 
 
 ### Task 4: Online Delivery
 - **Objective:** Determine the percentage of restaurants that offer online delivery and compare the average ratings of restaurants with and without online delivery.
-- **Approach:** Analyzed the dataset for online delivery options and compared the ratings.
+- **Approach:** Analyzed the dataset for online delivery options and compared the ratings.<br>
+<br>
 
 ## Level 2: Intermediate Analysis
 
