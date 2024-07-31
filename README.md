@@ -1,9 +1,10 @@
 # Cognifyz-Technologies-Internship-Tasks
 
-# Restaurant Data Analysis Projects
+# Restaurant Data Analysis Projects<br>
 
 ## Overview
-This repository contains the code and analysis for various tasks I completed as part of my internship at Cognifyz Technologies. The tasks are divided into three levels, each focusing on different aspects of restaurant data analysis.
+This repository contains the code and analysis for various tasks I completed as part of my internship at Cognifyz Technologies. The tasks are divided into three levels, each focusing on different aspects of restaurant data analysis.<br>
+<br>
 
 ## Level 1: Basic Analysis
 
@@ -41,7 +42,7 @@ This repository contains the code and analysis for various tasks I completed as 
 ### Task 4: Restaurant Chains
 - **Objective:** Identify restaurant chains in the dataset and analyze the ratings and popularity of different chains.
 - **Approach:** Investigated chain presence and performed comparative analysis on ratings.
-
+<br> <br>
 ## Level 3: Advanced Analysis
 
 ### Task 1: Restaurant Reviews
